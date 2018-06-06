@@ -181,3 +181,12 @@ body{
     margin-top: 20px auto;
     border-top: 5px solid #4aaaa5;
 }
+
+@media only screen and (max-width: 980px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 640px) {
+}
